@@ -1,5 +1,6 @@
 # Pizza-Sales-SQL-Project
 End-to-end SQL Portfolio Project delivering actionable insights through optimized queries
+<img width="550" height="551" alt="image" src="https://github.com/user-attachments/assets/398f9cf3-3e73-4c46-a24d-e4882a880e73" />
 
 # Project Overview
 This project analyzes pizza sales data from multiple datasets integrated into SQL Workbench. The main objective is to answer strategic business questions while practicing key SQL concepts—joins, aggregations, subqueries, window functions, and date-time operations. By solving both simple and advanced queries, the project provides hands-on experience in building logic, writing optimized SQL, and interpreting business insights.
